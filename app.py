@@ -1,5 +1,5 @@
-def definition(a,b):
-    return a+b
+def definition(a,b,c):
+    return a+b+c
 
 def substraction(a,b,c):
     return a-b-c
